@@ -28,13 +28,7 @@ reload.
 3. **Toast-driven feedback** — Every cart action (add, remove, checkout) triggers a clear
    react-toastify notification, so the user always knows what just happened.
 
-## 🚀 Getting Started
-
-```bash
-npm install
-npm run dev
-```
 
 ## 📤 Live Site
 
-(Add your deployed link here, e.g. Vercel/Netlify)
+
