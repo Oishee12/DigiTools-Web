@@ -29,6 +29,5 @@ reload.
    react-toastify notification, so the user always knows what just happened.
 
 
-## 📤 Live Site
 
 
